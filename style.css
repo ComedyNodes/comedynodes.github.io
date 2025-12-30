@@ -1,0 +1,51 @@
+---
+---
+
+//
+// IMPORTS
+//
+
+/* Font for body and titles: font-family: $barlowCondensed: 'Barlow Semi Condensed', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed&display=swap');
+
+/* Font for body and titles: font-family: $barlow: 'Barlow', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap"');
+
+/* Font for body and titles: font-family: $oranienbaum: 'Oranienbaum', serif; */
+@import url('https://fonts.googleapis.com/css2?family=Oranienbaum&display=swap');
+
+/* Font for body and titles: font-family: $abrilFatface: 'Abril Fatface', cursive; */
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+@import url(https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css);
+
+// Syntax highlighting @import is at the bottom of this file
+
+/**************/
+/* BASE RULES */
+/**************/
+
+//
+// Social Media Ads
+//
+
+video {
+  width: 300px;
+  height: 300px;  
+}
+
+#socialMedia11 {
+  height: 360px;
+}
+
+#socialMedia12 {
+  height: 360px;
+}
+
+#socialMedia13 {
+  height: 360px;
+}
+
+#socialMedia14 {
+  height: 360px;
+}
